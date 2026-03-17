@@ -49,8 +49,8 @@ Youth Ambassador @ Project NANDA (MIT)  ·  Founding Member @ Inner Circle
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=SatyamSinghal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSinghal&hide_border=true&layout=compact&bg_color=ffffff&title_color=111111&text_color=444444"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Satyam-10124&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=111111&icon_color=555555&text_color=444444"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-10124&hide_border=true&layout=compact&bg_color=ffffff&title_color=111111&text_color=444444"/>
 
 </div>
 
